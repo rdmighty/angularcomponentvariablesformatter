@@ -1,0 +1,5 @@
+dist
+node_modules
+.vscode
+extension.test.ts
+runTest.ts
